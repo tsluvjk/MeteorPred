@@ -22,9 +22,7 @@ Contributions:
 - Based on this dataset, we proposed MMLM, integrating three plug-and-play modules that enhance feature extraction in temporal, spatial, and vertical dimensions, respectively, collectively improving its ability to capture complex meteorological patterns.
 ![](docs/fig_finding1.svg)
 - To the best of our knowledge, this is the first time that MLLM has been used to deeply interpret raw meteorological data and generate warning conclusions in sentence form, paving a whole new perspective for future severe weather warning missions.
-![](docs/accuracy_comparison.svg)
-- We observed an emergence of thinking pattern during RL training process, such as visual search for small objects, visual comparisons across different regions, using `image_zoom_in_tools` for answer verification, etc. Check [our project homepage](https://visual-agent.github.io/) for more case study.
-![](docs/fig1_sc2.png)
+
 
 
 ## Dataset
